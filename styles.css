@@ -1,6 +1,7 @@
 /* 
 COLOR PALETTE
-#ff00ff - fuschia
+#ff00ff - fuchsia
+#ffccff - light fuchsia
 #666666 - dim gray
 */
 
@@ -10,5 +11,31 @@ COLOR PALETTE
 }
 
 h1 {
-    font-family: "Scriptina", Helvetica, script ;
+    font-family: "Scriptina", cursive;
+    color: #ff00ff;
+    font-size: 80px;
+}
+
+.header-bar {
+    background-color: #ffccff;
+    height: 40px;
+}
+
+.header-contacts {
+    padding: 10px;
+}
+
+.icon {
+    width: 30px;
+    padding: 5px;
+    float: right;
+}
+
+.center-title {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.clear {
+    clear: both;
 }
