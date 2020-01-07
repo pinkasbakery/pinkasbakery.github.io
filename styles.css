@@ -1,0 +1,14 @@
+/* 
+COLOR PALETTE
+#ff00ff - fuschia
+#666666 - dim gray
+*/
+
+@font-face {
+    font-family: "Scriptina";
+    src: url('scriptina-webfont.woff');
+}
+
+h1 {
+    font-family: "Scriptina", Helvetica, script ;
+}
